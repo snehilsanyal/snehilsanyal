@@ -22,6 +22,12 @@ Hey everyone, I am Snehil Sanyal. Nice to meet you all (virtually).
 - Not going to be a Philosopher anytime soon lol(in this lifetime, we have many)
 - Efforts invested in the Present, makes a good Past and creates a stable Future
 
+### Work
+- Google Scholar:
+- LinkedIn:
+- MathStack Exchange:
+- Webpage:
+- Kaggle:
 
 ### Loves
 - Mathematics and Coding
