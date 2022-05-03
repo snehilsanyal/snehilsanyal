@@ -1,9 +1,9 @@
-## Welcome to Snehil Sanyal's Profile
+## Welcome to Snehil Sanyal's GitHub Profile
 
-Hey everyone, I am Snehil Sanyal. Nice to meet you all (atleast virtually). 
+Hey everyone, I am Snehil Sanyal. Nice to meet you all (virtually). 
 
 ### Present
-- Hey there, I am Snehil Sanyal, currently pursuing PhD from IIT Guwahati under the supervision of Prof. M. K. Bhuyan.
+- I am currently pursuing PhD from IIT Guwahati under the supervision of Prof. M. K. Bhuyan.
 - My research work revolves around : Facial Emotion Recognition, Graph Representation Learning, Manifold Learning.
 - I am currently looking for opportunities through which I can aid my research work and contribute to Open Source.
 - Libraries and Frameworks I use for my work: TensorFlow, PyTorch, PyTorch Geometric, Spektral, Scikit-Learn.
@@ -27,11 +27,12 @@ Hey everyone, I am Snehil Sanyal. Nice to meet you all (atleast virtually).
 - Mathematics and Coding
 - Planning and Executing
 - My Family and close friends (only 2)
-- Meditation
-- Different Cultures
+- Interacting with people from different cultures
 - Anime: Slam Dunk (Favourite Character: Hanamichi), Dragon Ball Super (Favourite Character: Goku), Naruto (Favourite Characters: Minato, Obito and Guy)
+- Games: I am a 90's kid so played a lot of retro games, my favourite games are empire building games and 3rd World Games.
 
 ### Avoids
+- Sleeping late at night
 - Toxic/Aimless people
 
 ### Ask me about
