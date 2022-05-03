@@ -1,6 +1,6 @@
 ## Hello World!! 👋
 
-### Snehil Sanyal
+## Snehil Sanyal
 ------------------------------
 
 
