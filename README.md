@@ -1,6 +1,6 @@
 ## Welcome to Snehil Sanyal's GitHub Profile
 
-Hey everyone, I am Snehil Sanyal. Nice to meet you all (virtually). 
+Hey everyone, I am Snehil Sanyal.
 
 ### Present
 - I am currently pursuing PhD from IIT Guwahati under the supervision of Prof. M. K. Bhuyan.
@@ -24,35 +24,27 @@ Hey everyone, I am Snehil Sanyal. Nice to meet you all (virtually).
 
 ### Work
 - Google Scholar:
-- LinkedIn:
-- MathStack Exchange:
-- Webpage:
-- Kaggle:
+- LinkedIn:  
+- MathStack Exchange: https://math.stackexchange.com/users/636469/snehil-sanyal
+- Webpage: https://snehilsanyal.github.io/
+- Kaggle: https://www.kaggle.com/snehilsanyal 
 
 ### Loves
 - Mathematics and Coding
 - Planning and Executing
 - My Family and close friends (only 2)
 - Interacting with people from different cultures
-- Anime: Slam Dunk (Favourite Character: Hanamichi), Dragon Ball Super (Favourite Character: Goku), Naruto (Favourite Characters: Minato, Obito and Guy)
-- Games: I am a 90's kid so played a lot of retro games, my favourite games are empire building games and 3rd World Games.
 
-### Avoids
-- Sleeping late at night
-- Toxic/Aimless people
 
 ### Ask me about
+- Linear Algebra, Calculus and Probability
 - Hinduism
-- Astrology and how it works
 - Life, in general
-- Mathematics 
-- 
 
 ### Reach me
-- LinkedIn:
-- Institute Email ID:
-- Instagram:
-- Twitter: 
+- LinkedIn: https://www.linkedin.com/in/snehil-sanyal-33a731101/ 
+- Institute Email ID: ssanyal@iitg.ac.in
+- Twitter: https://twitter.com/snehilsanyal 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
