@@ -7,9 +7,10 @@ Hey everyone, I am Snehil Sanyal.
 - My research work revolves around : Facial Emotion Recognition, Graph Representation Learning, Manifold Learning.
 - I am collaborating with [**Prof. Debanga Raj Neog**](https://debanga.github.io/) and [**Iwahori Lab, Chubu University**](http://www.cvl.cs.chubu.ac.jp/).
 - I am currently looking for opportunities through which I can aid my research work and contribute to Open Source.
-- Libraries and Frameworks I use for my work: TensorFlow, Keras, PyTorch, PyTorch Geometric, Spektral, Scikit-Learn.
+- Libraries and Frameworks I use for my work: **TensorFlow, Keras, PyTorch, PyTorch Geometric, Spektral, Scikit-Learn.**
 - I love teaching fundamental concepts of Mathematics and Machine Learning. I have conducted 2 Lab sessions on ML as an instructor for Masters Students [[**link**]](https://snehilsanyal.github.io/EE524/) and 2 lab sessions on Digital Signal Processing [[**link**]](https://snehilsanyal.github.io/EE521/).
-- I am currently learning about: JAX, DeFi, NLP.
+- I am currently learning about: **JAX, DeFi, NLP.**
+- Served as a reviewer: [**IEEE INDICON**](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html), [**NCC 2022**](https://ee.iitb.ac.in/~ncc2022/)
 
 ### Past
 - Before joining PhD, I completed my Masters from DIAT Pune in Robotics. 
@@ -18,7 +19,7 @@ Hey everyone, I am Snehil Sanyal.
 - I have completed my Bachelors from [**National Institute of Technology, Raipur**](http://nitrr.ac.in/) (NIT Raipur).
 
 ### Future
-- Working towards it, lol...
+- Working towards it, lol ...
 
 ### Work
 - **Google Scholar:** https://scholar.google.com/citations?user=mVgWiR8AAAAJ&hl=en
@@ -40,7 +41,7 @@ Hey everyone, I am Snehil Sanyal.
 - Life, in general
 
 ### Reach me
-- LinkedIn: https://www.linkedin.com/in/snehil-sanyal-33a731101/ 
-- Institute Email ID: ssanyal@iitg.ac.in
-- Twitter: https://twitter.com/snehilsanyal 
+- **LinkedIn:** https://www.linkedin.com/in/snehil-sanyal-33a731101/ 
+- **Institute Email ID:** ssanyal@iitg.ac.in
+- **Twitter:** https://twitter.com/snehilsanyal 
 
