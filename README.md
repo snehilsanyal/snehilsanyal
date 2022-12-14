@@ -2,6 +2,9 @@
 
 Hey everyone, I am Snehil Sanyal. 
 
+![image](https://user-images.githubusercontent.com/41544905/207515990-a9f1c11c-1329-4dc1-b052-34e4e5873c8e.png)
+
+
 ### Present
 - I am currently pursuing PhD from IIT Guwahati under the supervision of [**Prof. M. K. Bhuyan**](https://iitg.ac.in/mkb/index.php).
 - My research work revolves around : Facial Emotion Recognition, Graph Representation Learning, Manifold Learning.
