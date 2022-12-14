@@ -2,7 +2,7 @@
 
 Hey everyone, I am Snehil Sanyal. 
 
-![image](../assets/EtkW.gif)
+![image](https://github.com/snehilsanyal/snehilsanyal/blob/main/assets/EtkW.gif?raw=true)
 
 
 ### Present
