@@ -1,6 +1,6 @@
 ## Welcome to Snehil Sanyal's GitHub Profile
 
-Hey everyone, I am Snehil Sanyal. This is my academic profile. As of Jan 2023, I am completely shifting my focus from academia to open-source development and industrial opportunities. I will still do some research work outside the academic framework, but will prioritize hands-on open source experience and my own ideas which I have been keeping in pending list for so long.
+Hey everyone, I am Snehil Sanyal. As of Jan 2023, I am completely shifting my focus from academia to open-source development and industrial opportunities. I will still do some research work outside the academic framework, but will prioritize hands-on open source experience and my own ideas which I have been keeping in pending list for so long.
 
 Currently I am participating in active community sprints like [gradio-theme party](https://huggingface.co/Gradio-Themes), [scikit-learn sprint](https://blog.scikit-learn.org/updates/community/joining-forces-hugging-face/) and [JAX diffusors sprint](https://github.com/huggingface/community-events/tree/main/jax-controlnet-sprint).
 
