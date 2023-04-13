@@ -1,11 +1,15 @@
 ## Welcome to Snehil Sanyal's GitHub Profile
 
-Hey everyone, I am Snehil Sanyal. 
+Hey everyone, I am Snehil Sanyal. This is my academic profile. As of Jan 2023, I am completely shifting my focus from academia to open-source development and industrial opportunities. I will still do some research work outside the academic framework, but will prioritize hands-on open source experience and my own ideas which I have been keeping in pending list for so long.
+
+Currently I am participating in active community sprints like [gradio-theme party](https://huggingface.co/Gradio-Themes), [scikit-learn sprint](https://blog.scikit-learn.org/updates/community/joining-forces-hugging-face/) and [JAX diffusors sprint](https://github.com/huggingface/community-events/tree/main/jax-controlnet-sprint).
+
+I am also self-learning about foundation models, LLMs and Generative AI in my passtime in the top-down approach (building projects first and learn as a consequence).
 
 <p align="center"><img src="https://github.com/snehilsanyal/snehilsanyal/blob/main/assets/EtkW.gif?raw=true"></p>
 
 
-### Present
+### Present (Till Jan 2023)
 - I am currently pursuing PhD from IIT Guwahati under the supervision of [**Prof. M. K. Bhuyan**](https://iitg.ac.in/mkb/index.php).
 - My research work revolves around : Facial Emotion Recognition, Graph Representation Learning, Manifold Learning.
 - I am collaborating with [**Prof. Debanga Raj Neog**](https://debanga.github.io/) and [**Iwahori Lab, Chubu University**](http://www.cvl.cs.chubu.ac.jp/).
@@ -15,7 +19,7 @@ Hey everyone, I am Snehil Sanyal.
 - I am currently learning about: **JAX, DeFi, NLP.**
 - Served as a reviewer: [**IEEE INDICON**](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html), [**NCC 2022**](https://ee.iitb.ac.in/~ncc2022/)
 
-### Past
+### Past (2017-2019)
 - Before joining PhD, I completed my Masters from DIAT Pune in Robotics. 
 - I worked as a Project Intern at [**Center for Artificial Intelligence and Robotics**](https://www.drdo.gov.in/labs-establishment/about-us/centre-artificial-intelligence-robotics-cair) (CAIR, DRDO India's Defense Lab working on AI and Robotics).
 - My work was on Monocular Depth Estimation and Location Estimation of objects using Drones.
@@ -43,8 +47,13 @@ Hey everyone, I am Snehil Sanyal.
 - Hinduism
 - Life, in general
 
+### ML Platforms
+- **Kaggle:** https://www.kaggle.com/snehilsanyal
+- **HuggingFace:** https://huggingface.co/snehilsanyal
+
 ### Reach me
 - **LinkedIn:** https://www.linkedin.com/in/snehil-sanyal-33a731101/ 
 - **Institute Email ID:** ssanyal@iitg.ac.in
 - **Twitter:** https://twitter.com/snehilsanyal 
+
 
