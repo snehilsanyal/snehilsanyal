@@ -2,19 +2,22 @@
 
 Hey everyone, I am Snehil Sanyal. As of Jan 2023, I am completely shifting my focus from academia to open-source development and industrial opportunities. I will still do some research work outside the academic framework, but will prioritize hands-on open source experience and my own ideas which I have been keeping in pending list for so long.
 
-Currently I am participating in active community sprints like [gradio-theme party](https://huggingface.co/Gradio-Themes), [scikit-learn sprint](https://blog.scikit-learn.org/updates/community/joining-forces-hugging-face/) and [JAX diffusors sprint](https://github.com/huggingface/community-events/tree/main/jax-controlnet-sprint).
-
 I am also self-learning about foundation models, LLMs and Generative AI in my passtime in the top-down approach (building projects first and learn as a consequence).
 
 <p align="center"><img src="https://github.com/snehilsanyal/snehilsanyal/blob/main/assets/EtkW.gif?raw=true"></p>
 
+### Present (2023-____)
+1. **Aug - Nov 2023:** Selected as KaggleX BIPOC Mentee for Cohort 3 (Project Focus: LLMs, Generative AI, Ethics/Bias, BIPOC Representation in Data Science).
+2. **Aug - Sep 2023:** Selected as OpenMined's Padawan Program Mentee for R5Q3 Cohort (Privacy Preserving AI and PETs).
+3. **Apr - Jul 2023:** Worked as an Associate Data Scientist for Ascendeum Pvt. Ltd. (Research and Development role for LLMs, LangChain, transformers, text to SQL).
+4. **Jan - Apr 2023:** Open Source Development and community sprints ([gradio-theme party](https://huggingface.co/Gradio-Themes), [scikit-learn sprint](https://blog.scikit-learn.org/updates/community/joining-forces-hugging-face/) and [JAX diffusors sprint](https://github.com/huggingface/community-events/tree/main/jax-controlnet-sprint))
 
-### Present (Till Jan 2023)
-- I am currently pursuing PhD from IIT Guwahati under the supervision of [**Prof. M. K. Bhuyan**](https://iitg.ac.in/mkb/index.php).
-- My research work revolves around : Facial Emotion Recognition, Graph Representation Learning, Manifold Learning.
-- I am collaborating with [**Prof. Debanga Raj Neog**](https://debanga.github.io/) and [**Iwahori Lab, Chubu University**](http://www.cvl.cs.chubu.ac.jp/).
+### Jul 2019 -  Jan 2023
+- Pursued PhD from IIT Guwahati under the supervision of [**Prof. M. K. Bhuyan**](https://iitg.ac.in/mkb/index.php).
+- My research work invovled : Facial Emotion Recognition, Graph Representation Learning, Manifold Learning.
+- Collaborations with [**Prof. Debanga Raj Neog**](https://debanga.github.io/) and [**Iwahori Lab, Chubu University**](http://www.cvl.cs.chubu.ac.jp/).
 - I am currently looking for opportunities through which I can aid my research work and contribute to Open Source.
-- Libraries and Frameworks I use for my work: **TensorFlow, Keras, PyTorch, PyTorch Geometric, Spektral, Scikit-Learn.**
+- Libraries and Frameworks I used for my work: **TensorFlow, Keras, PyTorch, PyTorch Geometric, Spektral, Scikit-Learn.**
 - I love teaching fundamental concepts of Mathematics and Machine Learning. I have conducted 2 Lab sessions on ML as an instructor for Masters Students [[**link**]](https://snehilsanyal.github.io/EE524/) and 2 lab sessions on Digital Signal Processing [[**link**]](https://snehilsanyal.github.io/EE521/).
 - I am currently learning about: **JAX, DeFi, NLP.**
 - Served as a reviewer: [**IEEE INDICON**](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html), [**NCC 2022**](https://ee.iitb.ac.in/~ncc2022/)
@@ -30,7 +33,7 @@ I am also self-learning about foundation models, LLMs and Generative AI in my pa
 
 ### Work
 - **Google Scholar:** https://scholar.google.com/citations?user=mVgWiR8AAAAJ&hl=en
-- **LinkedIn:** https://www.linkedin.com/in/snehil-sanyal-33a731101/
+- **LinkedIn:** https://www.linkedin.com/in/snehilsanyal/
 - **MathStack Exchange:** https://math.stackexchange.com/users/636469/snehil-sanyal
 - **Webpage:** https://snehilsanyal.github.io/
 - **Kaggle:** https://www.kaggle.com/snehilsanyal 
@@ -43,7 +46,7 @@ I am also self-learning about foundation models, LLMs and Generative AI in my pa
 
 ### Ask me about
 - Linear Algebra, Calculus and Probability
-- Machine Learning, Deep Learning, Computer Vision
+- Machine Learning, Deep Learning, Computer Vision, NLP
 - Hinduism
 - Life, in general
 
@@ -52,7 +55,7 @@ I am also self-learning about foundation models, LLMs and Generative AI in my pa
 - **HuggingFace:** https://huggingface.co/snehilsanyal
 
 ### Reach me
-- **LinkedIn:** https://www.linkedin.com/in/snehil-sanyal-33a731101/ 
+- **LinkedIn:** https://www.linkedin.com/in/snehilsanyal/ 
 - **Institute Email ID:** ssanyal@iitg.ac.in
 - **Twitter:** https://twitter.com/snehilsanyal 
 
