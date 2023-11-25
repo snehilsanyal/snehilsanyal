@@ -1,16 +1,19 @@
 ## Welcome to Snehil Sanyal's GitHub Profile
 
-Hey everyone, I am Snehil Sanyal. As of Jan 2023, I am completely shifting my focus from academia to open-source development and industrial opportunities. I will still do some research work outside the academic framework, but will prioritize hands-on open source experience and my own ideas which I have been keeping in pending list for so long.
+Hey everyone, I am Snehil Sanyal. As of Jan 2023, I am completely shifting my focus from academia to open-source development and industrial opportunities. I will still do some research work outside the academic framework, but will prioritize hands-on open source experience and my own ideas which I have been keeping in pending list for so long. Please check out my complete CV **[here](https://flowcv.com/resume/0i70i4l8eo)**
+
+🧑🏻‍🏫🧑🏻‍🎓 **I have started providing mentorship to students, and employees and consultation calls for startup clients. Please check out more [here](https://topmate.io/snehilsanyal)**
 
 I am also self-learning about foundation models, LLMs and Generative AI in my passtime in the top-down approach (building projects first and learn as a consequence).
 
 <p align="center"><img src="https://github.com/snehilsanyal/snehilsanyal/blob/main/assets/EtkW.gif?raw=true"></p>
 
-### Present (2023-____)
-1. **Aug - Nov 2023:** Selected as KaggleX BIPOC Mentee for Cohort 3 (Project Focus: LLMs, Generative AI, Ethics/Bias, BIPOC Representation in Data Science).
-2. **Aug - Sep 2023:** Selected as OpenMined's Padawan Program Mentee for R5Q3 Cohort (Privacy Preserving AI and PETs).
-3. **Apr - Jul 2023:** Worked as an Associate Data Scientist for Ascendeum Pvt. Ltd. (Research and Development role for LLMs, LangChain, transformers, text to SQL).
-4. **Jan - Apr 2023:** Open Source Development and community sprints ([gradio-theme party](https://huggingface.co/Gradio-Themes), [scikit-learn sprint](https://blog.scikit-learn.org/updates/community/joining-forces-hugging-face/) and [JAX diffusors sprint](https://github.com/huggingface/community-events/tree/main/jax-controlnet-sprint))
+### Present 
+1. **Aug - Nov 2023:** Successfully completed the KaggleX BIPOC Mentorship Program as a Mentee for Cohort 3 (Project Focus: Ethics/Bias, BIPOC Representation in Data Science). One of the few mentees to receive a Career Development Grant of USD 500 for my data science journey. **Links:** [PPT](https://docs.google.com/presentation/d/1Asx8xKGQrezKZUfT4U6Agrmd59vJycRW9_yl7y9dgMg/edit#slide=id.p2) | [Recording](https://drive.google.com/file/d/1343wgCjXQOfakfotFflKFGJV42E6fT_W/view) | [Project Completion Certificate](https://drive.google.com/file/d/1cN9Q6MtQuhek8zP85MoHx2ZNH5KN01nD/view?usp=sharing)
+2. **Aug - Oct 2023:** Successfully completed OpenMined's Padawan Program as a Mentee for R5Q3 Cohort (Privacy Preserving AI and PETs).
+3. **May 2023:** I am now a Kaggle Dataset Expert (1X Expert) 🤗🥇🥈🥉
+4. **Apr - Jul 2023:** Worked as an Associate Data Scientist for Ascendeum Pvt. Ltd. (Research and Development role for LLMs, LangChain, transformers, text to SQL).
+5. **Jan - Apr 2023:** Open Source Development and community sprints ([gradio-theme party](https://huggingface.co/Gradio-Themes), [scikit-learn sprint](https://blog.scikit-learn.org/updates/community/joining-forces-hugging-face/))
 
 ### Jul 2019 -  Jan 2023
 - Pursued PhD from IIT Guwahati under the supervision of [**Prof. M. K. Bhuyan**](https://iitg.ac.in/mkb/index.php).
@@ -45,8 +48,8 @@ I am also self-learning about foundation models, LLMs and Generative AI in my pa
 - Interacting with people from different cultures
 
 ### Ask me about
-- Linear Algebra, Calculus and Probability
-- Machine Learning, Deep Learning, Computer Vision, NLP
+- Linear Algebra, Calculus and Probability (Fundamentals of AI and ML)
+- Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, LLMs
 - Hinduism
 - Life, in general
 
@@ -57,6 +60,7 @@ I am also self-learning about foundation models, LLMs and Generative AI in my pa
 ### Reach me
 - **LinkedIn:** https://www.linkedin.com/in/snehilsanyal/ 
 - **Institute Email ID:** ssanyal@iitg.ac.in
-- **Twitter:** https://twitter.com/snehilsanyal 
+- **Twitter:** https://twitter.com/snehilsanyal
+- **Topmate:** https://topmate.io/snehilsanyal
 
 
