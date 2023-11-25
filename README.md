@@ -1,6 +1,7 @@
 ## Welcome to Snehil Sanyal's GitHub Profile
 
-Hey everyone, I am Snehil Sanyal. As of Jan 2023, I am completely shifting my focus from academia to open-source development and industrial opportunities. I will still do some research work outside the academic framework, but will prioritize hands-on open source experience and my own ideas which I have been keeping in pending list for so long. Please check out my complete CV **[here](https://flowcv.com/resume/0i70i4l8eo)**
+Hey everyone, I am Snehil Sanyal. As of Jan 2023, I am completely shifting my focus from academia to open-source development and industrial opportunities. I will still do some research work outside the academic framework, but will prioritize hands-on open source experience and my own ideas which I have been keeping in pending list for so long. 
+**Please check out my complete CV [here](https://flowcv.com/resume/0i70i4l8eo)**
 
 🧑🏻‍🏫🧑🏻‍🎓 **I have started providing mentorship to students, and employees and consultation calls for startup clients. Please check out more [here](https://topmate.io/snehilsanyal)**
 
